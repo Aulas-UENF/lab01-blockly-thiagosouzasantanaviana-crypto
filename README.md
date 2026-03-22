@@ -4,8 +4,8 @@
 
 Bem-vindo(a) à sua atividade prática de Lógica Computacional! Siga os passos abaixo para completar o desafio.
 
-**Nome do Aluno:** [Preencha seu nome aqui]
-**Matrícula:** [Preencha sua matrícula]
+**Nome do Aluno:** [Thiago Souza]
+**Matrícula:** [20261100024]
 ---
 
 ## 🎯 Objetivo
@@ -23,8 +23,9 @@ Tire um screenshot (captura de tela) da sua solução final (mostrando os blocos
 
 **Passo 3: Explique sua Estratégia**
 
-Escreva um pequeno texto explicando qual foi a sua linha de raciocínio e a estratégia que você usou para resolver o nível 10.
-*(Exemplo: "Criei uma função para desenhar uma estrela, depois usei um loop para repetir essa função 3 vezes girando 120 graus.")*
+Primeiro, usei o "set colour to" para definir a cor pedida pelo problema. Depois, criei um loop triplo que estava definido para desenhar três estrelas arranjadas na forma de um triângulo, com 150 unidades e virando 120 graus para a direita a cada loop. As estrelas são formadas por um loop quíntuplo, no qual a caneta se move 50 unidades e vira à direita 144 graus a cada repetição.
+
+Depois, usei o "set colour" novamente para criar uma lua cheia, que consiste em um loop de 360 vezes, variando 1 grau a cada ida e volta da caneta. Em seguida, criei outro loop parecido, com um distanciamento de 20 unidades e 72 graus para a esquerda, usando o "set colour" novamente para desenhar.
 
 **Passo 4: Pergunta Desafio**
 
