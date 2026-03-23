@@ -41,13 +41,12 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 *(Edite este arquivo e escreva suas respostas dos Passos 3 e 4 aqui embaixo. Lembre-se de colocar a imagem do Passo 2 dentro da pasta **/imagens** deste repositório)*
 
 ## 2. Evidência Visual (Screenshot)
-imagens/Screenshot 2026-03-22 at 17-56-29 Blockly Games Turtle.png
+(imagens/Screenshot 2026-03-22 at 17-56-29 Blockly Games Turtle.png)
 ## 3. Estratégia Utilizada
-*Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
 Primeiro, usei o "set colour to" para definir a cor pedida pelo problema. Depois, criei um loop triplo que estava definido para desenhar três estrelas arranjadas na forma de um triângulo, com 150 unidades e virando 120 graus para a direita a cada loop. As estrelas são formadas por um loop quíntuplo, no qual a caneta se move 50 unidades e vira à direita 144 graus a cada repetição.
 
 Depois, usei o "set colour" novamente para criar uma lua cheia, que consiste em um loop de 360 vezes, variando 1 grau a cada ida e volta da caneta. Em seguida, criei outro loop parecido, com um distanciamento de 20 unidades e 72 graus para a esquerda, usando o "set colour" novamente para desenhar.
-
+@Annabell
 ## 4. Desafio:
 **A)** Escreva aqui...
   
